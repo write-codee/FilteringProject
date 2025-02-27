@@ -139,3 +139,10 @@ const Product = () => {
 };
 
 export default Product;
+
+
+// const data = [12,15,99,15,20,36,18,90,5,2,3];
+// const filteringData = data.filter((val,i)=>{
+//   return val < 10
+// })
+// console.log(filteringData);
